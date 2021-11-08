@@ -1,7 +1,7 @@
 # COVID-19-Worldwide-Data-Analysis-and-Time-Series-Prediction
 
 [![3.8 python](https://img.shields.io/badge/Python-3.8.12-blue.svg)](https://www.python.org/)
-[![6.3 JupyterNotbook](https://img.shields.io/badge/JupyterNotbook-6.3.0-green.svg)](https://jupyter.readthedocs.io/en/latest/)
+[![6.3 JupyterNotbook](https://img.shields.io/badge/JupyterNotbook-6.3.0-green.svg)](https://jupyter-notebook.readthedocs.io/en/latest/)
 [![3.142 Selenium](https://img.shields.io/badge/Selenium-3.142.5-yellow.svg)](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-api)
 
 
