@@ -25,5 +25,5 @@ To implement this project I use with :
 
 
 
-![pieTotalCasesAroundTheWorld](https://user-images.githubusercontent.com/58783670/140757280-355dc278-543e-47b4-9f4b-06da29f0921f.png)
+![pieTotalCasesAroundTheWorld](https://user-images.githubusercontent.com/58783670/140759952-a2bcec1d-6eda-4e7b-b0c2-1d4fd54f1926.png)
 
