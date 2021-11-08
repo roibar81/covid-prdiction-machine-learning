@@ -5,7 +5,7 @@
 [![3.142 Selenium](https://img.shields.io/badge/Selenium-3.142.5-yellow.svg)](https://www.selenium.dev/)
 
 
-This project is machine learning project-based on time series data to predict the total death and total cases that could happen during the COVID-19 pandemic during the coming years. in this project we used linear regression model. 
+This machine learning project-based on time series data to predict the total death and total cases that could happen during the COVID-19 pandemic during the coming years. in this project we used linear regression model. 
 The data was scraped from official sites in separate URL addresses by Selenium framework, were cleared and arranged, and passed to linear regression algorithms for the prediction.
 
 To implement this project I use with : 
