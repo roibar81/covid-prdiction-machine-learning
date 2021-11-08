@@ -25,5 +25,6 @@ To implement this project I use with :
 
 ## Screenshots
 
-![alt text](https://github.com/[roibar81]/[Final-project-data-science]/blob/[master]/image.jpg?raw=true)
+![ActiveCases](https://user-images.githubusercontent.com/58783670/140756379-dcc4c126-72db-45de-9260-82b8831cc959.png)
+
 
