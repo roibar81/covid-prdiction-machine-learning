@@ -24,6 +24,8 @@ To implement this project I use with :
 [World Health Organization ranking of health systems in 2000](https://en.wikipedia.org/wiki/World_Health_Organization_ranking_of_health_systems_in_2000#Ranking)
 
 
+## The pie shows percentage distribution of 4 statuses of patients that currently exist in the world
+
 
 ![pieTotalCasesAroundTheWorld](https://user-images.githubusercontent.com/58783670/140759952-a2bcec1d-6eda-4e7b-b0c2-1d4fd54f1926.png)
 
