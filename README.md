@@ -25,6 +25,5 @@ To implement this project I use with :
 
 ## Screenshots
 
-![ActiveCases](https://user-images.githubusercontent.com/58783670/140756379-dcc4c126-72db-45de-9260-82b8831cc959.png)
-
+![pieTotalCasesAroundTheWorld](https://user-images.githubusercontent.com/58783670/140757280-355dc278-543e-47b4-9f4b-06da29f0921f.png)
 
