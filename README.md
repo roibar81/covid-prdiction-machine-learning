@@ -2,7 +2,7 @@
 
 [![3.8 python](https://img.shields.io/badge/Python-3.8.12-blue.svg)](https://www.python.org/)
 [![6.3 JupyterNotbook](https://img.shields.io/badge/JupyterNotbook-6.3.0-green.svg)](https://jupyter-notebook.readthedocs.io/en/latest/)
-[![3.142 Selenium](https://img.shields.io/badge/Selenium-3.142.5-yellow.svg)](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-api)
+[![3.142 Selenium](https://img.shields.io/badge/Selenium-3.142.5-yellow.svg)](https://www.selenium.org/)
 
 
 This project is machine learning project-based on time series data to predict the total death and total cases that could happen during the COVID-19 pandemic during the coming years. in this project we used linear regression model. 
