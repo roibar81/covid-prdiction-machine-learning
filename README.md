@@ -23,7 +23,7 @@ To implement this project I use with :
 
 [World Health Organization ranking of health systems in 2000](https://en.wikipedia.org/wiki/World_Health_Organization_ranking_of_health_systems_in_2000#Ranking)
 
-## Screenshots
+
 
 ![pieTotalCasesAroundTheWorld](https://user-images.githubusercontent.com/58783670/140757280-355dc278-543e-47b4-9f4b-06da29f0921f.png)
 
